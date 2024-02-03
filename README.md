@@ -1,1 +1,1 @@
-dsa-problmes solutions GFG, Coding Ninjas and Leetcode
+dsa-problmes solutions GFG, Coding Ninjas and others

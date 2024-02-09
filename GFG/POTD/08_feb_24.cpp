@@ -1,5 +1,5 @@
 /*
-Check if all leaves are at same leve
+Check if all leaves are at same level
 
 
 Binary tree question

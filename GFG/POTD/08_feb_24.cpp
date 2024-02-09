@@ -1,7 +1,6 @@
 /*
 Check if all leaves are at same level
 
-
 Binary tree question
 
 Given a binary tree with n nodes, determine whether all the leaf nodes are at the same level or not. Return true if all leaf nodes are at the same level, and false otherwise.
